@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 😋 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 저는 배움을 즐기고 꾸준히 성장할 개발자 입니다.</li><li> 저는 Keystone이 되기 위해 노력합니다! </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 저는 배움을 즐기고 꾸준히 성장할 개발자 입니다.</li><li> 저는 게임 컨텐츠 프로그래머가 꿈입니다.</li><li> 저는 Keystone이 되기 위해 노력합니다! </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
@@ -28,5 +28,10 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-minseok123&layout=compact&bg_color=60,bd93cc,fcfcfc&title_color=000000&text_color=000000"
            /> </div> 
     </div>
+<h2  style="border-bottom: 1px solid #21262d; color: #c9d1d9;">✏ Educations</h2>  
+
+- **2020.03 ~ 2026.02 :** 동국대학교 컴퓨터공학전공
+  - **전체** 4.17/4.5
+  - **전공** 4.23/4.5
 
     
